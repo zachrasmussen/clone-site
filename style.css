@@ -28,6 +28,14 @@ a {
     padding: 50px 20px;
 }
 
+.pd {
+    padding: 50px 0;
+}
+
+.pdlr {
+    padding: 0 20px;
+}
+
 footer {
     background-size: cover;
     background-repeat: no-repeat;
